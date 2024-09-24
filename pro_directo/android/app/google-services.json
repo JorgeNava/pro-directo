@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635717986447",
+    "project_id": "pro-directo",
+    "storage_bucket": "pro-directo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635717986447:android:d6d7eb85f71434069868fa",
+        "android_client_info": {
+          "package_name": "pro_directo.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlPyVLCbTExZz-hXPEC8YRkeC0yhCGE2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
